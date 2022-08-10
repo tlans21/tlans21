@@ -5,4 +5,4 @@
 
 
 
-<img src="http://mazandi.herokuapp.com/api?handle={tlans21}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=tlans21&theme=warm"/>
