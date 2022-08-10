@@ -8,7 +8,6 @@
 
 
 + 백준 알고리즘 문제풀이 현황
-   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlans21)](https://solved.ac/tlans21)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlans21)](https://solved.ac/tlans21)
 
   <img src="http://mazandi.herokuapp.com/api?handle=tlans21&theme=warm"/>
